@@ -1,0 +1,28 @@
+{
+    "name": "highlightjs-wikitext",
+    "version": "1.0.0",
+    "description": "Wikitext language grammar for Highlight.js",
+    "main": "src/wikitext.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/auioc/highlightjs-wikitext.git"
+    },
+    "keywords": [
+        "wikitext",
+        "highlightjs",
+        "highlight.js",
+        "syntax-highlighting"
+    ],
+    "author": "WakelessSloth56",
+    "license": "AGPL-3.0-or-later",
+    "bugs": {
+        "url": "https://github.com/auioc/highlightjs-wikitext/issues"
+    },
+    "homepage": "https://github.com/auioc/highlightjs-wikitext"
+}
